@@ -1,0 +1,2 @@
+cd tp_trs
+put ./projet_destijl_2014/projet_initial/robot
